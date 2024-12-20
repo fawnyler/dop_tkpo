@@ -1,0 +1,10 @@
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.csproj.AssemblyReference.cache
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.Form1.resources
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.Properties.Resources.resources
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.csproj.GenerateResource.cache
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.csproj.CoreCompileInputs.cache
+D:\tkpo\ATMFormApp\ATMFormApp\bin\Debug\ATMFormApp.exe.config
+D:\tkpo\ATMFormApp\ATMFormApp\bin\Debug\ATMFormApp.exe
+D:\tkpo\ATMFormApp\ATMFormApp\bin\Debug\ATMFormApp.pdb
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.exe
+D:\tkpo\ATMFormApp\ATMFormApp\obj\Debug\ATMFormApp.pdb
