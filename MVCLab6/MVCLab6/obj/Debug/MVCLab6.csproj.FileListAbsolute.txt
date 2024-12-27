@@ -1,0 +1,10 @@
+D:\tkpo\MVCLab6\MVCLab6\bin\Debug\MVCLab6.exe.config
+D:\tkpo\MVCLab6\MVCLab6\bin\Debug\MVCLab6.exe
+D:\tkpo\MVCLab6\MVCLab6\bin\Debug\MVCLab6.pdb
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.csproj.AssemblyReference.cache
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.Form1.resources
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.Properties.Resources.resources
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.csproj.GenerateResource.cache
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.csproj.CoreCompileInputs.cache
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.exe
+D:\tkpo\MVCLab6\MVCLab6\obj\Debug\MVCLab6.pdb
